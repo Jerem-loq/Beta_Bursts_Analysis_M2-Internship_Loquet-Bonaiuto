@@ -47,7 +47,7 @@ Open the notebooks and run them sequentially to reproduce the analysis.
 - `gcpca_tutorial1.ipynb`
   - Toy dataset demonstration of PCA vs gcPCA
   - shows gcPCA outputs, interpretation, and comparison with standard PCA
-  - de Oliverai et al., 2025 - 10.1371/journal.pcbi.1012747
+  - de Oliveira et al., 2025 - 10.1371/journal.pcbi.1012747
 
 ### Core group-level workflows
 
