@@ -1,16 +1,10 @@
 # gcPCA Analysis Repository
-Author: Jeremie Loquet - https://github.com/Jerem-loq
-
-Supervised by: James Bonaiuto - https://github.com/jbonaiuto
-
-At the DANClab: https://github.com/danclab
-
-Date: Early 2026
-
-M2 Computational neuroscience Internship project
-
-University Claude Bernard Lyon 1
-
+Author: Jeremie Loquet - https://github.com/Jerem-loq  
+Supervised by: James Bonaiuto - https://github.com/jbonaiuto  
+At the DANClab: https://github.com/danclab  
+Date: Early 2026  
+M2 Computational neuroscience Internship project  
+University Claude Bernard Lyon 1  
 Institut des Sciences Cognitives Marc Jannerod 
 
 ## Overview
