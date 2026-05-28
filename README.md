@@ -1,4 +1,4 @@
-# gcPCA Analysis Repository
+# M2 Internship Repository
 Author: Jeremie Loquet - https://github.com/Jerem-loq  
 Supervised by: James Bonaiuto - https://github.com/jbonaiuto  
 At the DANClab: https://github.com/danclab  
