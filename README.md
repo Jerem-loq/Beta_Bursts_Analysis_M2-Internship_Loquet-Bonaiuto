@@ -106,7 +106,7 @@ Open the notebooks and run them sequentially to reproduce the analysis.
 
 The analysis relies on the dataset described in Agouram et al. (2025):
 
-- Agouram, H. et al. "Beta Burst Waveform Motifs Link Cortico-Subcortical Connectivity and Clinical Improvement in Parkinson’s Disease." _medR\(\chi\)iv_ (2025). https://doi.org/10.1101/2025.07.09.25331208
+- Agouram, H. et al. "Beta Burst Waveform Motifs Link Cortico-Subcortical Connectivity and Clinical Improvement in Parkinson’s Disease." _medR&chi;iv_ (2025). https://doi.org/10.1101/2025.07.09.25331208
 
 ## Notes
 
