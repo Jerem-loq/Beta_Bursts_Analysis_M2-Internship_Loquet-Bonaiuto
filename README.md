@@ -34,8 +34,7 @@ The project depends on:
 
 - `generalized-contrastive-pca`
 - `ipykernel`, `ipython`
-- `matplotlib`, `numpy`, `pandas`
-- `pingouin`
+- `matplotlib`, `numpy`
 - `scikit-learn`, `scipy`, `statsmodels`
 
 Open the notebooks and run them sequentially to reproduce the analysis.
@@ -47,7 +46,7 @@ Open the notebooks and run them sequentially to reproduce the analysis.
 - `gcpca_tutorial1.ipynb`
   - Toy dataset demonstration of PCA vs gcPCA
   - shows gcPCA outputs, interpretation, and comparison with standard PCA
-  - de Oliveira et al., 2025 - 10.1371/journal.pcbi.1012747
+  - de Oliveira et al., 2025 - https://dx.plos.org/10.1371/journal.pcbi.1012747
 
 ### Core group-level workflows
 
@@ -90,7 +89,7 @@ Open the notebooks and run them sequentially to reproduce the analysis.
 - `analyze_stn_central_beta_bursts_gcpca.ipynb`
   - in-depth STN and cortex beta burst waveform analysis
   - clinical correlation analysis using robust linear regression and bootstrap statistics
-  - Bonaiuto et al., 2021 - 10.1016/j.neuroimage.2021.118479
+  - Bonaiuto et al., 2021 - https://linkinghub.elsevier.com/retrieve/pii/S1053811921007527
 
 ## Outputs and artifacts
 
@@ -107,7 +106,7 @@ Open the notebooks and run them sequentially to reproduce the analysis.
 
 The analysis relies on the dataset described in Agouram et al. (2025):
 
-- Agouram, H. et al. "Beta Burst Waveform Motifs Link Cortico-Subcortical Connectivity and Clinical Improvement in Parkinson’s Disease." _medRxiv_ (2025). https://doi.org/10.1101/2025.07.09.25331208
+- Agouram, H. et al. "Beta Burst Waveform Motifs Link Cortico-Subcortical Connectivity and Clinical Improvement in Parkinson’s Disease." _medR$\x$iv_ (2025). https://doi.org/10.1101/2025.07.09.25331208
 
 ## Notes
 
